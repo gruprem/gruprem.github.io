@@ -1,0 +1,12 @@
+title: Grup REM
+description: Grup REM — Reflexió en Educació Matemàtica
+url: "https://gruprem.github.io"
+baseurl: ""
+
+theme: minima
+
+exclude:
+  - Gemfile
+  - Gemfile.lock
+  - README.md
+  - vendor
